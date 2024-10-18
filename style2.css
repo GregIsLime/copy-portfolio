@@ -1,0 +1,69 @@
+/* @property --darkside {
+    color: rgb(170, 241, 231);
+  } */
+
+  :root {
+    --mandarin: rgb(87, 174, 163);
+}
+
+body {
+    background-color: black;
+}
+
+.button-style{
+background-image: url(pic/moon.png); 
+filter: invert(1);
+}
+
+.header-container {
+    border: rgb(255, 255, 255) solid;
+    background-color: white;
+}
+
+
+li span {
+    color: rgb(0, 0, 0);
+}
+
+.ul-header li {
+    border: 0px black solid;
+    background-color: rgb(255, 255, 255);
+}
+
+
+#li-label {
+    background: rgb(255, 255, 255);
+}
+
+#li-label a {
+    color: rgb(0, 0, 0);
+}
+
+
+.welcome , .ul-header {
+    background-color: white;
+}
+
+.second-block , .first-block {
+background-color: black;
+}
+
+.second-block-container{
+    color: white;
+}
+
+.elipse{
+ background-image: url(pic/darkstyle/Ellipse.png);
+}
+
+.second-section-first-block {
+    background-image: url(pic/darkstyle/06d547fa2080873389d5cdb526033110.png);
+}
+
+.left-string span{
+    color: var(--mandarin);
+}
+
+.experince-section{
+    background-color: rgb(79, 106, 82);
+}

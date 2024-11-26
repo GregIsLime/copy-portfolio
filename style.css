@@ -6,11 +6,11 @@
 @font-face {
     font-family: "Urbanist";
     src: url("fonts/Urbanist/static/Urbanist-SemiBold.ttf");
-}
-
 :root {
     --mandarin: rgba(253, 133, 58, 1);
-}
+}}
+
+
 
 html {
     scroll-behavior: smooth;
